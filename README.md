@@ -30,14 +30,6 @@ reshape tissue communication networks.
 - Reproducible research packaging with documented inputs, scripts, examples,
   and public data links
 
-## Current Focus
-
-- Maintaining R packages for communication-network and ligand-inference
-  analysis
-- Turning manuscript analysis code into reproducible public repositories
-- Building practical bioinformatics workflows that are easy for collaborators
-  to rerun and extend
-
 ## Contact
 
 - Google Scholar: https://scholar.google.no/citations?user=BteG8UIAAAAJ&hl=en
