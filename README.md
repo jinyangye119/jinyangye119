@@ -10,8 +10,8 @@ reshape tissue communication networks.
 
 ## Featured Bioinformatics Projects
 
-| Project | Focus 
-|---|---|---|
+| Project | Focus |
+|---|---|
 | [CellRelay](https://github.com/jinyangye119/CellRelay) | Multicellular ligand-receptor relay motifs from single-cell and spatial data 
 | [MetaLigand](https://github.com/jinyangye119/MetaLigand) | Non-peptide ligand activity from transcriptomic data 
 | [Prodecov](https://github.com/jinyangye119/Prodecov) | Prostate tumor purity prediction from proteomics 
