@@ -10,13 +10,13 @@ reshape tissue communication networks.
 
 ## Featured Bioinformatics Projects
 
-| Project | Focus | What it demonstrates |
+| Project | Focus 
 |---|---|---|
-| [CellRelay](https://github.com/jinyangye119/CellRelay) | Multicellular ligand-receptor relay motifs from single-cell and spatial data | R package development, permutation testing, cell-cell communication modeling |
-| [MetaLigand](https://github.com/jinyangye119/MetaLigand) | Non-peptide ligand activity from transcriptomic data | Method development for metabolite/lipid-related signaling |
-| [Prodecov](https://github.com/jinyangye119/Prodecov) | Prostate tumor purity prediction from proteomics | Elastic net modeling, deployable R prediction workflow |
-| [Mouse_CSC_PNAS](https://github.com/jinyangye119/Mouse_CSC_PNAS) | Figure-generation code for retinal degeneration multiomics | Reproducible snRNA-seq and snATAC-seq analysis organization |
-| [HuiLab_ProstateCancer](https://github.com/jinyangye119/HuiLab_ProstateCancer) | Prostate cancer deconvolution workflows | xCell2, EDec, methylation/proteomics integration |
+| [CellRelay](https://github.com/jinyangye119/CellRelay) | Multicellular ligand-receptor relay motifs from single-cell and spatial data 
+| [MetaLigand](https://github.com/jinyangye119/MetaLigand) | Non-peptide ligand activity from transcriptomic data 
+| [Prodecov](https://github.com/jinyangye119/Prodecov) | Prostate tumor purity prediction from proteomics 
+| [Mouse_CSC_PNAS](https://github.com/jinyangye119/Mouse_CSC_PNAS) | Figure-generation code for retinal degeneration multiomics 
+| [HuiLab_ProstateCancer](https://github.com/jinyangye119/HuiLab_ProstateCancer) | Prostate cancer deconvolution workflows 
 
 ## Technical Strengths
 
