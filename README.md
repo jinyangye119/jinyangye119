@@ -12,6 +12,7 @@ reshape tissue communication networks.
 
 | Project | Focus |
 |---|---|
+| [Single-cell-pipeline](https://github.com/jinyangye119/Single-cell-pipeline) | Reproducible Nextflow workflow for single-cell RNA-seq analysis from count matrices through QC, integration, annotation, DEG, KEGG enrichment, and reporting |
 | [CellRelay](https://github.com/jinyangye119/CellRelay) | Multicellular ligand-receptor relay motifs from single-cell and spatial data 
 | [Retinal_Aging_Project](https://github.com/jinyangye119/Retinal_Aging_Project) | Comparative retinal aging analysis with R/Python workflows for single-cell, Xenium spatial, aging-clock, proximity, and cell-cell communication analyses |
 | [MetaLigand](https://github.com/jinyangye119/MetaLigand) | Non-peptide ligand activity from transcriptomic data 
